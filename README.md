@@ -1,5 +1,7 @@
 # boatwright - Boat design tools
 
+[![Build Status](https://travis-ci.com/zimeon/boatwright.svg?branch=main)](https://travis-ci.com/zimeon/boatwright)
+
 ## Limitations
 
   * Lots... **this is just an idea at the moment**
